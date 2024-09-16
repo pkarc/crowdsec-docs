@@ -433,6 +433,7 @@ module.exports = {
                 "getting_started/installation/pfsense",
                 "getting_started/installation/opnsense",
                 "getting_started/installation/whm",
+                "getting_started/installation/cloudways",
             ],
         },
         {
